@@ -14,7 +14,7 @@ humantime: "1:00 pm - 5:00 pm ET"    # human-readable times for the workshop e.g
 startdate: 2024-08-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-08-22        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["David Molik", "Aaron Dickey" , "Chen Dong"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Lavida Rogers", "David Bradshaw"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Lavida Rogers", "David Bradshaw", "Melanie Veron"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["scinet-training@usda.gov"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2024-08-19-scinet-online
 ---
